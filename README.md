@@ -10,6 +10,9 @@ This is the official PyTorch implementation of the paper *"[MotionBERT: A Unifie
 
 <img src="https://motionbert.github.io/assets/teaser.gif" alt="" style="zoom: 60%;" />
 
+In this fork repository, we adopted the lightweight methods for the deep-learning model.
+
+
 ## Installation
 
 ```bash
